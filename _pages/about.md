@@ -1,23 +1,21 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Loïc</strong> Baron
+description: Software Engineer, full-stack, technical lead.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #address: >
+  #  <p>Paris, France</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Software Engineer leading a development team. I am responsible for the architecture design and for the quality of the code delivered. Passionate about science, technology and innovation, I have been working both in Academia ([CNRS](http://www.cnrs.fr/en){:target="\_blank"}, [Lip6](https://www.lip6.fr/?LANG=en){:target="\_blank"}) and Private sector ([Orange](https://www.orange.com){:target="\_blank"}, [Expedia](https://www.expedia.com){:target="\_blank"}, [Caisse d'Epargne](https://www.caisse-epargne.fr){:target="\_blank"}, [Thales Digital Factory](https://www.thalesdigital.io){:target="\_blank"}). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have contributed to several European Research [projects](/projects/) in Computer Networks (FP7, H2020). The outcome of my work has lead to several scientific [publications](/publications/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You'll find here some information on my work but also on my personal intrests and hobbies: conservation of nature, sailing, scuba diving, trekking... 
