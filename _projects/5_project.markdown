@@ -1,21 +1,13 @@
 ---
 layout: page
-title: Project 5
-description: a project with a background image
-img: /assets/img/1.jpg
+title: FIBRE
+description: EU - Brazil cooperation
+img: /assets/img/fibre.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+The FIBRE testbed is as research facility constructed in the scope of a former project funded by the 2010 Brazil-EU Coordinated Call in ICT.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+It works as a large-scale Virtual Laboratory for students and researchers to test new applications and network architecture models.
 
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>

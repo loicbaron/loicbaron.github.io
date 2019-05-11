@@ -1,21 +1,11 @@
 ---
 layout: page
-title: Project 6
-description: a project with no image
-img:
+title: OpenLab
+description: Extending FIRE testbeds and tools
+img: /assets/img/OpenLab.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+Experimentally-driven research is key to success in exploring the possible futures of the Internet. An open, general-purpose, shared experimental facility, both large-scale and sustainable, is essential for European industry and academia to innovate today and assess the performance of their solutions. OpenLab brings together the essential ingredients for such a facility. We extend early prototypes of testbeds, middleware, and measurement tools so as to provide more efficient and flexible support for a diverse set of experimental applications and protocols. The prototypes include a set of demonstrably successful testbeds: PlanetLab Europe, with its 153 partner/user institutions across Europe; the NITOS and w-iLab.t wireless testbeds; two IMS (IP Multimedia Subsystem) telco testbeds for exploring merged media distribution; a green networking testbed; the ETOMIC high precision network measurement testbed; and the HEN emulation testbed. Associated with these testbeds are similarly successful control- and experimental-plane software. OpenLab advances these prototypes with key enhancements in the areas of mobility, wireless, monitoring, domain interconnections, and the integration of new technologies such as OpenFlow. These enhancements will be transparent to existing users of each testbed, while opening up a diversity of new experiments that users can perform, extending from wired and wireless media distribution to distributed and autonomous management of new social interactions and localized services, going far beyond what can be tested on the current Internet. OpenLab results will advance the goal of a unified Future Internet Research and Experimentation (FIRE) facility. In addition, OpenLab can provide models for the Future Internet Public Private Partnership (FI-PPP). Finally, OpenLab will issue open calls to users in industry and academia to submit proposals for innovative experiments using the OpenLab's technologies and testbeds, and will devote one million euros to funding the best of these proposals.
 
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
