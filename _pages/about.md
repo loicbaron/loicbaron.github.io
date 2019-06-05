@@ -18,4 +18,7 @@ I am a Software Engineer leading a development team. I am responsible for the ar
 
 I have contributed to several European Research [projects](/projects/) in Computer Networks (FP7, H2020). The outcome of my work has lead to several scientific [publications](/publications/).
 
+To know more about my technical skills, please have a look at my [stack](/stack/).
+
 You'll find here some information on my work but also on my personal intrests and hobbies: conservation of nature, sailing, scuba diving, trekking... 
+
