@@ -5,11 +5,9 @@ description: Easy Access to Computer Networking Testbeds
 img: /assets/img/onelab-news.png
 ---
 
-Easy Access to Testbeds
 Through OneLab, you can easily test the software system that you have designed to function in any
 one of the following networked communication environments: IoT networks with mobility
 and sensing capabilities; ad-hoc wireless and wireless broadband access networks; a global, public, fixed-line Internet; and Cloud and SDN networks. Our platforms offer both wireless and fixed-line emulated environments and reproducibility of experimentation.
-
 
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/onelab-noc.jpg" alt="" title="OneLab NOC"/>
@@ -17,7 +15,11 @@ and sensing capabilities; ad-hoc wireless and wireless broadband access networks
 <div class="col three caption">
     Working in the OneLab Network Operations Center (NOC).
 </div>
-
+<p style="text-align: center;">
+<span style="font-size:1.5em;">Portal: <a class="page-link" href="https://portal.onelab.eu" target="_blank">< Access ></a> / </span>
+<span style="font-size:1.5em;">source code: <a class="page-link" href="https://github.com/loicbaron/myslice2" target="_blank">< Web ></a>  </span>
+<span style="font-size:1.5em;"><a class="page-link" href="https://github.com/loicbaron/sfa" target="_blank">< API ></a></span>
+</p>
 ### ![iot](/assets/img/onelab-icon-iot.png)  Internet of Things
 IoT testing on a large-scale infrastructure
 Experiment on hundreds of IoT sensor nodes in mobile and ad hoc environments with LR WPAN (802.15.4 wireless). These platforms offer both fixed nodes and mobile nodes with controlled mobility via robots or model trains. 

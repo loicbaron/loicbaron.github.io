@@ -5,13 +5,18 @@ description: Worldwide federation of Next Generation Internet testbeds
 img: /assets/img/fed4fire-bg.png
 ---
 
-
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/fed4fire-fec.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
     Presentation during Fed4FIRE meeting in Ghent, Belgium.
 </div>
+
+> <a href="https://cordis.europa.eu/project/rcn/207030/factsheet/en" target="_blank">EU H2020 Fed4FIREplus project (Grant No. 732638)</a>  
+Dates: 2017 - 2021  
+Overall budget: 11 654 262 €  
+Funded under: H2020-EU.2.1.1.
+Coordinated by: INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM - IMEC
 
 ### PROJECT OVERVIEW
 Experimentally driven research is considered to be a key factor for growing the European Internet industry. In order to enable this type of RTD activities, a number of projects for building a European facility for Future Internet Research and Experimentation (FIRE) have been launched, each project targeting a specific community within the Future Internet ecosystem. Through the federation of these infrastructures, innovative experiments become possible that break the boundaries of these domains. Besides, infrastructure developers can utilize common tools of the federation, allowing them to focus on their core testbed activities.
